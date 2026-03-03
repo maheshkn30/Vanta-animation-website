@@ -5,7 +5,7 @@ This project demonstrates how Vanta effects can enhance modern web designs with 
 
 ## Live Link
 
-(Add your deployed project link here)
+https://maheshkn30.github.io/Vanta-animation-website/
 
 ## Usage
 
